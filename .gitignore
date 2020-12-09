@@ -1,0 +1,7 @@
+*.cfg
+*.pyc
+global_config.cfg
+*.txt
+*.base64
+*.yaml
+*.log
